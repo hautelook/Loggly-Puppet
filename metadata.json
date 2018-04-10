@@ -1,13 +1,13 @@
 {
-  "name": "loggly-loggly",
+  "name": "hautelook-loggly",
   "version": "2.0.0",
-  "author": "loggly",
+  "author": "hautelook",
   "summary": "Configures various data sources for automatic submission to Loggly",
   "description": "Configures various data sources for automatic submission to Loggly",
   "license": "Apache-2.0",
-  "source": "https://github.com/loggly/Loggly-Puppet.git",
-  "project_page": "https://github.com/loggly/Loggly-Puppet",
-  "issues_url": "https://github.com/loggly/Loggly-Puppet/issues",
+  "source": "https://github.com/hautelook/Loggly-Puppet.git",
+  "project_page": "https://github.com/hautelook/Loggly-Puppet",
+  "issues_url": "https://github.com/hautelook/Loggly-Puppet/issues",
   "dependencies": [
     {
       "name": "puppetlabs-stdlib",
